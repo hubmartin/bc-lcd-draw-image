@@ -1,6 +1,6 @@
 #include <application.h>
 
-// Icons created by
+//  Icons created by
 // https://www.flaticon.com/packs/cumulus
 
 extern const bc_image_t clear_sun;
