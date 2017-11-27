@@ -10,7 +10,7 @@
         {
             "taskName": "build",
             "isBuildCommand": true,
-            "args": [],
+            "args": ["-j4"],
             "problemMatcher": {
                 "owner": "cpp",
                 "fileLocation": ["relative", "${workspaceRoot}"],

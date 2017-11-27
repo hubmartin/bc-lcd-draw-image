@@ -5,6 +5,7 @@
             "name": "Black Magic Probe",
             "type": "cppdbg",
             "request": "launch",
+            "preLaunchTask": "build",
             "cwd": "${workspaceRoot}",
             "MIMode": "gdb",
             "targetArchitecture": "arm",
